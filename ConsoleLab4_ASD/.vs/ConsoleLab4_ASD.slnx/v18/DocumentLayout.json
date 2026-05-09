@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|e:\\repos_c#\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\consolelab4_asd\\consolelab4_asd\\tasks\\task9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|solutionrelative:consolelab4_asd\\tasks\\task9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|e:\\repos_c#\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\consolelab4_asd\\consolelab4_asd\\tasks\\task8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|solutionrelative:consolelab4_asd\\tasks\\task8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|e:\\repos_c#\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\consolelab4_asd\\consolelab4_asd\\tasks\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|solutionrelative:consolelab4_asd\\tasks\\task7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|e:\\repos_c#\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\consolelab4_asd\\consolelab4_asd\\tasks\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|solutionrelative:consolelab4_asd\\tasks\\task6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|e:\\repos_c#\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\consolelab4_asd\\consolelab4_asd\\tasks\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|solutionrelative:consolelab4_asd\\tasks\\task5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|e:\\repos_c#\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\consolelab4_asd\\consolelab4_asd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1294AA-ABD2-5D01-BFF1-E998A0FD5C53}|ConsoleLab4_ASD\\ConsoleLab4_ASD.csproj|solutionrelative:consolelab4_asd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task9.cs",
+              "DocumentMoniker": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Tasks\\Task9.cs",
+              "RelativeDocumentMoniker": "ConsoleLab4_ASD\\Tasks\\Task9.cs",
+              "ToolTip": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Tasks\\Task9.cs",
+              "RelativeToolTip": "ConsoleLab4_ASD\\Tasks\\Task9.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:39:22.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Task8.cs",
+              "DocumentMoniker": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Tasks\\Task8.cs",
+              "RelativeDocumentMoniker": "ConsoleLab4_ASD\\Tasks\\Task8.cs",
+              "ToolTip": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Tasks\\Task8.cs",
+              "RelativeToolTip": "ConsoleLab4_ASD\\Tasks\\Task8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:37:35.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task7.cs",
+              "DocumentMoniker": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Tasks\\Task7.cs",
+              "RelativeDocumentMoniker": "ConsoleLab4_ASD\\Tasks\\Task7.cs",
+              "ToolTip": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Tasks\\Task7.cs",
+              "RelativeToolTip": "ConsoleLab4_ASD\\Tasks\\Task7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:35:51.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task6.cs",
+              "DocumentMoniker": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Tasks\\Task6.cs",
+              "RelativeDocumentMoniker": "ConsoleLab4_ASD\\Tasks\\Task6.cs",
+              "ToolTip": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Tasks\\Task6.cs",
+              "RelativeToolTip": "ConsoleLab4_ASD\\Tasks\\Task6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:32:06.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task5.cs",
+              "DocumentMoniker": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Tasks\\Task5.cs",
+              "RelativeDocumentMoniker": "ConsoleLab4_ASD\\Tasks\\Task5.cs",
+              "ToolTip": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Tasks\\Task5.cs",
+              "RelativeToolTip": "ConsoleLab4_ASD\\Tasks\\Task5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:21:15.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleLab4_ASD\\Program.cs",
+              "ToolTip": "E:\\repos_c#\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438 \u0456 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u0438 \u0434\u0430\u043D\u0438\u0445_\u043B\u0430\u0431\\ConsoleLab4_ASD\\ConsoleLab4_ASD\\Program.cs",
+              "RelativeToolTip": "ConsoleLab4_ASD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:20:48.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
